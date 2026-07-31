@@ -1,4 +1,4 @@
-## fw-zoo-site
+# fw-zoo-site
 
 Fixture static site for Far & Wide "connector zoo" UAT — a realistic GitHub PR
 patch target. Plain static HTML (`index.html` at repo root → detected stack
