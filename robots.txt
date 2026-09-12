@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://strangelife123-hub.github.io/fw-zoo-site/sitemap.xml
