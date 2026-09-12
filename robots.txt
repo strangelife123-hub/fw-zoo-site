@@ -12,3 +12,5 @@ Allow: /
 
 User-agent: Googlebot-Extended
 Allow: /
+
+Sitemap: https://strangelife123-hub.github.io/fw-zoo-site/sitemap.xml
